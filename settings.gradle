@@ -1,0 +1,2 @@
+rootProject.name='RubiksScrambler'
+include ':app'

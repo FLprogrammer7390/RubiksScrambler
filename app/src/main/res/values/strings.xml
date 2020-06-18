@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Rubik\'s Scrambler</string>
+    <string name="scramble_button">Scramble</string>
+    <string name="scramble_activity">Scramble Results</string>
+</resources>
